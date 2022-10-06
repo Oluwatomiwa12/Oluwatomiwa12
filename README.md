@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oluwatomiwa12
+- 👋 Hi, I'm Ebenezer 
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning CSS
 - 📫 How to reach me ayankunletomiwa@gmail.com 
