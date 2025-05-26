@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ebenezer 
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning on ALX 
 - 📫 How to reach me ayankunletomiwa@gmail.com 
 
 <!---
